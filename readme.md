@@ -3,3 +3,5 @@
 2. Nvidia CUDA Toolkit and cuDNN
 3. Anaconda with python 3.7 (GPU Enabled)
 4. cmake
+5. dlib for python
+6. face_recognition library
