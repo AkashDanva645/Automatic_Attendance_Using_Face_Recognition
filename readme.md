@@ -1,7 +1,3 @@
 ## Softwares and Libraries needed to run the Program in Windows 10
-1. Visual Studio
-2. Nvidia CUDA Toolkit and cuDNN
-3. Anaconda with python 3.7 (GPU Enabled)
-4. cmake
-5. dlib for python
-6. face_recognition library
+1. Install Visual Studio 
+[How to install Visual Studio](https://docs.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2019)
